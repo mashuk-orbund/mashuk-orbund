@@ -12,9 +12,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mashuk-orbund&show_icons=true&locale=en&layout=compact" alt="mashuk-orbund" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mashuk-orbund&show_icons=true&locale=en" alt="mashuk-orbund" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mashuk-orbund&" alt="mashuk-orbund" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mashuk-orbund&show_icons=true&locale=en" alt="mashuk-orbund" /></p>
 
 
 <!--
