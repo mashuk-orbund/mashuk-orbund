@@ -8,15 +8,13 @@
 - 💬 Ask me about **Java, Spring, Problem Solving**
 - ⚡ Fun fact **I think I am a boring person**
 
-<p align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mashuk-orbund&show_icons=true&locale=en&layout=compact" alt="mashuk-orbund" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mashuk-orbund&" alt="mashuk-orbund" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=mashuk-orbund&rank=-?&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mashuk-orbund&show_icons=true&locale=en&layout=compact" alt="mashuk-orbund" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mashuk-orbund" alt="mashuk-orbund" /></a> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mashuk-orbund&show_icons=true&locale=en" alt="mashuk-orbund" /></p>
 
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mashuk-orbund&show_icons=true&locale=en" alt="mashuk-orbund" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mashuk-orbund&" alt="mashuk-orbund" /></p>
 
 
 <!--
