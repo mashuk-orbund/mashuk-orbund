@@ -13,7 +13,6 @@
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mashuk-orbund&" alt="mashuk-orbund" />
 </p>
 
-<p align="left">Something is buggy here... I am trying to figure out...</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mashuk-orbund" alt="mashuk-orbund" /></a> </p>
 
