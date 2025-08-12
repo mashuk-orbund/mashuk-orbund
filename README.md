@@ -1,4 +1,4 @@
-## Hi 👋, I'm Mashukur Rahman
+## Hi 👋, I'm Mashukur Rahman – aka “Buggy Coder!!!”
 
 ### Experienced Senior Software Engineer with 11+ years in backend (Java, Spring) and frontend (JavaScript, React) development, known for leading architecture design and performance optimization. Balances deep technical expertise with strategic thinking, aiming to build scalable systems and intelligent assistants.
 
