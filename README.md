@@ -11,11 +11,13 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mashuk-orbund&rank=-?&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mashuk-orbund&show_icons=true&locale=en&layout=compact" alt="mashuk-orbund" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mashuk-orbund" alt="mashuk-orbund" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mashuk-orbund&show_icons=true&locale=en" alt="mashuk-orbund" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mashuk-orbund&show_icons=true&locale=en" alt="mashuk-orbund" /></p>
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mashuk-orbund&show_icons=true&locale=en" alt="mashuk-orbund" /></p>
+
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mashuk-orbund" alt="mashuk-orbund" /></p>-->
 
 
 <!--
