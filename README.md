@@ -4,10 +4,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mashuk-orbund&label=Profile%20views&color=green&style=flat" alt="mashuk-orbund" /> </p>
 
+---
+
 - 🌱 I’m currently learning **Playwright, LLM, Managerial Communication**
 - 💖 I am fond of debuging challenging **BUG**!!!
 - 💬 Ask me about **Java, Spring, JavaScript, Jquery, React, Problem Solving**
 - ⚡ Fun fact **I think I am a boring person**
+
+---
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,js,react,html,css,mysql,nginx,git,github,vscode,eclipse)](https://skillicons.dev)
+
+---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mashuk-orbund&rank=-?&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
